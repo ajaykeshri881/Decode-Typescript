@@ -166,12 +166,12 @@ node dist/index.js
 
 ## ⭐ Support
 
-If this repo helped you:
+If this repository helped you out:
 
-- ⭐ Star the repo to support and share
-- 💖 Sponsor if you want to support development
+- ⭐ **Star the repo** to help others discover it
+- 💖 **Sponsor** to support continuous development
 
-Every bit of support helps 🙌
+*Every bit of support makes a difference!* 🙌
 
 ---
 
