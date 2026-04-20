@@ -164,6 +164,17 @@ node dist/index.js
 
 ---
 
+## ⭐ Support
+
+If this repo helped you:
+
+- ⭐ Star the repo to support and share
+- 💖 Sponsor if you want to support development
+
+Every bit of support helps 🙌
+
+---
+
 <div align="center">
   <i>Happy Typing! 🚀 Built with ❤️ for developers.</i>
 </div>
