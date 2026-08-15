@@ -8,8 +8,7 @@ Learn conditional, mapped, and template literal types in a simple and visual way
 - Mapped types
 - Template literal types
 
-## 🧠 Key Idea (Very Simple)
-
+## 🧠 Key Idea 
 Advanced types help you build new types from old ones using rules and patterns.
 
 ## ❓ What Is It?
